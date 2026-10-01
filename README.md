@@ -50,8 +50,6 @@ El curso está diseñado como 3 bloques de 3 horas (9 horas totales), con una pr
 ## Referencias
 
 - Nielsen, M. A. & Chuang, I. L. *Quantum Computation and Quantum Information*. Cambridge University Press.
-- Rieffel, E. G. & Polak, W. (2000). [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/abs/quant-ph/9809016). arXiv:quant-ph/9809016.
-- Mermin, N. D. (2003). [From Cbits to Qbits: Teaching computer scientists quantum mechanics](https://arxiv.org/abs/quant-ph/0207118). *American Journal of Physics*, 71(1), 23–30.
 - [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/)
 - [Documentación de Qiskit](https://docs.quantum.ibm.com)
 
