@@ -25,6 +25,7 @@ Cada sesión es un notebook autocontenido (teoría + código + visualizaciones +
 |---|---|---|
 | **1 — Fundamentos** | Qubit, superposición, medición (regla de Born), entrelazamiento, compuertas de 1 y 2 qubits, estados de Bell | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicoavilan/Intro-Comp-Cuant-UNarino-2026/blob/main/Sesion1_Fundamentos_Computacion_Cuantica.ipynb) |
 | **2 — Circuitos y simulación** | Transpilación, compuertas paramétricas ($R_x,R_y,R_z$), ruido , teletransportación cuántica | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nicoavilan/Intro-Comp-Cuant-UNarino-2026/blob/main/Sesion2_Circuitos_Transpilacion_Ruido.ipynb) |
+| **3 — Algoritmos cuánticos y aplicaciones** | Algoritmo de Bernstein-Vazirani.  QAOA el problema Max-Cut | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://github.com/nicoavilan/Intro-Comp-Cuant-UNarino-2026/blob/main/Sesion3_Algoritmos_Aplicaciones.ipynb)) |
 
 
 Cada notebook es independiente: instala sus propias dependencias en la primera celda, así que puedes abrir cualquiera directamente en Colab sin configuración previa.
