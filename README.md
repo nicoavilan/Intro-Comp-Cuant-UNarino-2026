@@ -41,12 +41,6 @@ Cada notebook es independiente: instala sus propias dependencias en la primera c
 
 Ninguno además de una cuenta de Google para usar Colab. Cada notebook instala `qiskit`, `qiskit-aer` y las dependencias de visualización en su primera celda.
 
-## Estructura del curso
-
-El curso está diseñado como 3 bloques de 3 horas (9 horas totales), con una proporción aproximada de 40% teoría / 60% práctica en cada uno:
-
-1. **Fundamentos** → construir intuición y verificar los postulados básicos en código.
-2. **Circuitos y simulación** → pasar de "circuito lógico" a lo que realmente se ejecuta en hardware (transpilación, ruido).
 
 ## Referencias
 
@@ -56,4 +50,4 @@ El curso está diseñado como 3 bloques de 3 horas (9 horas totales), con una pr
 
 ## Contacto
 
-Nicolás Avilán — Universidad del Rosario
+Nicolás Avilán (nicolasg.avilan@urosario.edu.co) — Universidad del Rosario
