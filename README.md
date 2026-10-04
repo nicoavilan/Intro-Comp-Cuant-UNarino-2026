@@ -3,7 +3,7 @@
 Curso teórico-práctico de 9 horas sobre los fundamentos de la computación cuántica y su implementación con [Qiskit](https://www.ibm.com/quantum/qiskit), ofrecido a estudiantes del Departamento de Física de la Universidad de Nariño del 30 de septiembre al 2 de octubre de 2026.
 
 <p align="center">
-  <img src="UdeNar2026.jpeg" alt="Foto del curso" width="500">
+  <img src="UdeNar2026.jpeg" alt="Foto del curso" width="600">
 </p>
 ## Objetivo general
 
