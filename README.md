@@ -1,6 +1,8 @@
 # Introducción a la Computación Cuántica — Universidad de Nariño 2026
 
 Curso teórico-práctico de 9 horas sobre los fundamentos de la computación cuántica y su implementación con [Qiskit](https://www.ibm.com/quantum/qiskit), ofrecido a estudiantes del Departamento de Física de la Universidad de Nariño del 30 de septiembre al 2 de octubre de 2026.
+![Foto del curso](UdeNar2026.jpeg)
+
 
 ## Objetivo general
 
